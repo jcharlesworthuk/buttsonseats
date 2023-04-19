@@ -6,3 +6,4 @@ relative_links:
 include:
   - PRIVACY-POLICY.md
   - TERMS-OF-SERVICE.md
+theme: minima
